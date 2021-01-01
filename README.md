@@ -1,6 +1,3 @@
-# rooms-meeting
-Projeto para gerenciar Salas de Reunião que consumirá a API rooms-meeting-api
-
 <h1 align="center">
 :small_red_triangle_down: Projeto Salas de Reunião
 </h1>
