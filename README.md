@@ -13,7 +13,7 @@ Bootcamp everis Fullstack Developer pela Digital Innovation One
 </p>
 
 <p align="center">
-O objetivo deste projeto é desenvolver uma gerenciador de Salas de Reunião (rooms-meeting) em Angular que consumirá uma API criada anteriormente em Java com Spring Boot.
+O objetivo deste projeto é desenvolver um gerenciador de Salas de Reunião em Angular que consumirá uma API criada anteriormente em Java com Spring Boot (rooms-meeting-api).
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Estas foram as tecnologias utilizadas neste projeto:
 ## :computer: Instalação
 1. Primeiro clone o Backend da aplicação no seu computador. Acesse o repositório abaixo e siga as instruções de instalação:
 
-    * Link para o repositório de API em Java com Spring Boot (rooms-meting-api):
+    * Link para o repositório da API em Java com Spring Boot (rooms-meting-api):
 [Backend do App Salas de Reunião](https://github.com/clovisdanielcosta/rooms-meeting-api.git)
     
 3. Depois da etapa 2 acima, clone este repositório no seu computador (FORA da pasta do backend acima):
