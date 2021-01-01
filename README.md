@@ -13,7 +13,7 @@ Bootcamp everis Fullstack Developer pela Digital Innovation One
 </p>
 
 <p>
-O objetivo deste projeto é desenvolver uma API em Java com Spring Boot para ser consumida pelo App Salas de Reunião (rooms-meeting).
+O objetivo deste projeto é desenvolver uma gerenciador de Salas de Reunião (rooms-meeting) em Angular que consumirá uma API criada anteriormente em Java com Spring Boot.
 </p>
 
 <p align="center">
