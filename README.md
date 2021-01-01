@@ -12,7 +12,7 @@ Bootcamp everis Fullstack Developer pela Digital Innovation One
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
 
-<p>
+<p align="center">
 O objetivo deste projeto é desenvolver uma gerenciador de Salas de Reunião (rooms-meeting) em Angular que consumirá uma API criada anteriormente em Java com Spring Boot.
 </p>
 
