@@ -49,7 +49,7 @@ Estas foram as tecnologias utilizadas neste projeto:
     * Resiliente: Sistema permanece responsivo diante de falhas.
     * Elástico: Sistema permanece responsivo diante de uma carga de trabalho variável.
     * Orientado a Mensagens: Sistema garantindo passagem de mensagens assíncronas entre componentes, garantindo acoplamento flexível, isolamento e transparência.
- 4. Detalhamento da utilização de LifeCycle Hooks: ngOnChanges, ngOnInit, ngDocheck, ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit, ngAfterViewChecked e ngOnDestry.
+ 4. Detalhamento da utilização de LifeCycle Hooks: ngOnChanges, ngOnInit, ngDocheck, ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit, ngAfterViewChecked e ngOnDestroy.
  5. Breve visão sobre eventos nos elementos (EventBinding).
  
 ## :computer: Instalação
